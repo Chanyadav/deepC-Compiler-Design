@@ -1,0 +1,7 @@
+begin
+integer z;
+for t in range(0,20) 
+z:=z+2;
+print(z)
+end_for;
+end.

@@ -1,0 +1,16 @@
+begin
+integer
+x:=4;
+integer
+y:=2;
+integer
+z:=4;
+integer
+d:=3;
+integer u;
+integer i;
+integer t;
+u:=x+y-z+d;
+u>d?z:=120:z:=100;
+print(z);
+end.

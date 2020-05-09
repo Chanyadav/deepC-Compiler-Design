@@ -1,0 +1,14 @@
+begin
+integer x:=10;
+integer y:=2;
+integer z:=6;
+integer d:=3;
+integer u;
+integer i;
+integer t;
+for(i:=0;i<10;i++)
+do
+u++;
+print(u)
+end_for;
+end.

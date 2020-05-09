@@ -1,0 +1,11 @@
+begin
+integer a:=10;
+integer b:=20;
+integer y;
+string s:=Output;
+booleanValue g:=true;
+if a>b then y:=a+b else y:=(a*b)/(b)end_if;
+print(y);
+print(s);
+print(g);
+end.

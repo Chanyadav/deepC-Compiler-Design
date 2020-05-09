@@ -1,0 +1,99 @@
+SER 502 Team 17 Individual Contribution
+
+Group members:
+
+Nachiappan Lakshmanan
+Nayan Jain
+Gurupreetham 
+Chandan Yadav
+
+Week 1 (Apr 2 - Apr 9)
+
+Chandan Yadav 
+Knowledge acquisition on Compiler Design & Interpreter.
+Exploring the best tool & language for lexing and parsing.
+Educating myself over a tool - ANTLR.
+
+Nachiappan Lakshmanan:
+Assisted teammates in building the grammar, looping constructs(part 4 of the grammar).
+Evaluating expression, print statement (part 5), assignment-operator(part 2 )
+Understanding lexer design
+
+Nayan Jain:
+Setup the Drive and Git for the team
+Assisted teammates in the building the grammar (Part 1 of the grammar)
+Understanding Compiler Design and Interpreter Building.
+
+Gurupreetam: 
+Looked at many different grammars on github.
+Worked on DCG for Ternary operators and Tradition if-then-else construct of the language constraints. (Part 3 of language constraints)
+
+
+
+Week 2 (Apr 9 - Apr 16)
+
+Chandan Yadav: 
+Knowledge Acquisition about ANTLR programming language & creation of environment.
+Prepared tokens for the intermediate code generation
+Understood the parse tree generated and generated artifacts from the ANTLR environment.
+
+Nachiappan Lakshmanan:
+Knowledge acquisition on ANTLR tool and started analysing the baseListener class generated from the ANTLR tool.
+Work with Chandan on intermediate code generation in Java.
+Prepared a document with all the definite tokens to be chosen for the language.
+
+Nayan Jain:
+Knowledge acquisition & discussion with Preetham regarding setting up the runtime environment. 
+Designed  the executor program to interpret the intermediate code and output the result.
+
+
+Gurupreetam Kadiri:
+Worked with Nayan with regard to the run time environment. 
+Work on designing the run time environment for the language in Java.
+
+
+
+
+Week 3 (Apr 16 - Apr 23)
+
+Chandan Yadav 
+Developed the intermediate code for the grammar by overriding the methods in the baseListener class
+Refined the grammar for the intermediate code generation.
+Defined labels in the grammar to generate suitable intermediate code for the grammar.
+       
+Nachiappan Lakshmanan
+Worked with Chandan on designing the intermediate code for the grammar
+Setup Eclipse with ANTLR and got familiar with the artifact generation.
+Generated the intermediate code and copied to an output file, so that the runtime environment can be designed appropriately. 
+Nayan Jain
+Analysed the intermediate code and decided the workflow for different operators.
+Developed the runtime environment for the project along with GuruPreetam.
+
+
+GuruPreetam:
+Decided the data structures to be used to handle the intermediate code
+Developed the run time environment for the grammar in Java. 
+
+
+
+
+
+Week 4 (Apr 24 - Apr 28):
+
+Chandan Yadav:
+Wrote the test cases for the run time environment to test the language.
+Worked on preparing the PPT and the Video.
+
+Nachiappan:
+Test the runtime environment of the language with different test cases and test the intermediate code.
+Worked on the design document for the project
+
+Nayan:
+Worked on the PPT design and helped chandan in making video.
+Worked on the cleaning the code 
+
+GuruPreetam:
+Worked on making a design document with Nachiappan and contributed in cleaning the code.
+End to end testing of the language.
+
+

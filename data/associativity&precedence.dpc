@@ -1,0 +1,15 @@
+begin
+integer
+x:=2;
+integer
+y:=5;
+integer
+z:=7;
+integer
+d:=6;
+integer u;
+integer i;
+integer t;
+u:=(d*4/x*1+4)/(x-y+z);
+print(u);
+end.

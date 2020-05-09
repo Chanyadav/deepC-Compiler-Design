@@ -1,0 +1,25 @@
+begin
+integer x:=10;
+integer z:=0;
+integer i;
+integer y;
+integer a;
+for i in range(0,100)
+y:=20;
+y:=y+1;
+while x<1000
+do
+z:=z+1;
+x:=x+y;
+if x>10 and z<10
+then
+print(x)
+else
+a:=y+x
+end_if
+end_while
+end_for;
+print(x);
+print(z);
+end.
+

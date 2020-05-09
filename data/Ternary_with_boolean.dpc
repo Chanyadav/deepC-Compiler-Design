@@ -1,0 +1,15 @@
+begin
+integer
+x:=4;
+integer
+y:=2;
+integer
+z:=6;
+integer
+d:=3;
+integer u;
+booleanValue f;
+u:=x+y-z+d;
+u>d?f:=true:f:=false;
+print(f);
+end.

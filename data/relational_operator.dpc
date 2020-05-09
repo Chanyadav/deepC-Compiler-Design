@@ -1,0 +1,15 @@
+begin
+integer a:=10;
+integer b:=20;
+integer c:=30;
+integer d:=25;
+booleanValue e:=true;
+booleanValue f:=false;
+if a<b and c>d 
+then 
+f:=not(true)
+else
+f:=true
+end_if;
+print(f);
+end.

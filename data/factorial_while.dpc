@@ -1,0 +1,15 @@
+begin
+integer
+f:=1;
+integer
+n:=5;
+integer
+c:=1;
+while
+c<=n
+do
+f:=f*c;
+c:=c+1
+end_while;
+print(f);
+end.
